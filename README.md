@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vipul Sharma, a sofware developer at IBM.
+- 👋 Hi, I’m Vipul Sharma, a senior sofware developer at Kong.
 - 👀 I’m interested in developing meaningful software for the world
 - 🌱 I’m currently learning Front end development, Data science and ML/AI, Quantum computing
 - 💞️ I’m looking to collaborate on good first projects, open source projects.
